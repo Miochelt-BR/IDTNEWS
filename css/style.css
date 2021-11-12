@@ -1,0 +1,27 @@
+
+body{
+font-family:'Rajdhani',sans-serif;
+color: #fff;
+;
+background-color: black;
+}
+#titulo{
+    color: #fff;
+}
+img{
+width: 60%;
+ 
+}
+
+.foto{
+text-align: center;
+}
+.foto li{
+    display: inline-block;
+    
+}
+.rede{
+    
+    
+    width: 10%;
+}
